@@ -70,3 +70,4 @@ finally:
                         c+=1
             except:
                 print('something failed.')
+print('Thank you')
